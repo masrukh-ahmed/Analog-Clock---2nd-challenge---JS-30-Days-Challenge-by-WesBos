@@ -1,10 +1,12 @@
 # 🕒 Analog Clock – JS30 Day 2 Challenge
 
-This project is my implementation of **Day 2: Analog Clock** from [Wes Bos’s JavaScript 30 Days Challenge](https://javascript30.com/).
+This project is my implementation of **Day 2: JS + CSS Clock** from [Wes Bos’s JavaScript 30 Days Challenge](https://javascript30.com/).
 I built **two versions**:
 
 * **Version 1 (Tutorial-based):**
   Based on the default design shown in the challenge. I tweaked the styling a bit because the original wasn’t looking great to me.
+
+  ![Preview of the basic design](default.png)
 
 * **Version 2 (My Own Design):**
   Created completely from scratch to strengthen my understanding of the concepts used in the challenge.
@@ -13,6 +15,8 @@ I built **two versions**:
   * A new, modern design
   * Responsive layout
   * Clock tick audio
+
+  ![Preview of my design](myDesign.png)
 
 ---
 
@@ -36,17 +40,5 @@ I built **two versions**:
 ### 🚀 How to Run
 
 1. Clone the repo.
-2. Open `index.html` (or your version file) in your browser.
+2. Open `index.html` for the basic tutorial design and `myDesign.html` for my design - in your browser.
 3. Click anywhere on the page (to enable audio playback, due to browser autoplay policies).
-
----
-
-This way anyone visiting your repo will know:
-
-* It’s from JS30 Day 2
-* You have two versions
-* You learned key front-end concepts
-
----
-
-Would you like me to also write a **short GitHub tagline** (one-line description that appears under the repo name)?
